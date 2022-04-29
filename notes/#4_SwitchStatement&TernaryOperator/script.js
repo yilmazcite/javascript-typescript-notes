@@ -1,7 +1,45 @@
+//The Switch Statement:
+
+//Switch statement can be used in the logic of else/if statements to provide different results according to different conditions. It is one of the 'conditional' statements in JavaScript.
+
+//Example: Defining the season according to the month.
+
+let month = 'november'; //variable to be used with 'switch' is defined.
+
+switch (
+  month //switch statement starts with curly braces.
+) {
+  case 'december': //'case' is used for each condition.
+  case 'january': //after 'case', a colon is used, NOT a semicolon.
+  case 'february': //after using one case, it can be completed with break right after.
+    console.log("It's a winter month.");
+    break; //to finish the case, a break is needed with a semicolon.
+  case 'march': //multiple cases can be used before breaking each one of them.
+  case 'april': //the cases until the break are considered together in the same condition.
+  case 'may':
+    console.log("It's a spring month.");
+    break;
+  case 'june':
+  case 'july':
+  case 'august':
+    console.log("It's a summer month.");
+    break;
+  case 'september':
+  case 'october':
+  case 'november':
+    console.log("It's an autumn month.");
+    break;
+  default: //default can be used in the end like the function of an 'else' statement.
+    console.log('Invalid month.');
+} //with closing curly brace, the switch is ended.
+//Output of this code: "It's an autumn month."
+
+/*********/ /*********/
+
 //The Ternary Conditional Operator:
 
 /*
-•	Conditional ternary operator is used to take quick decisions with simple conditions. It should not be confused with if/else statements. Although they seem to do the same job, they do not really actually replace one another. If/Else statements are still obligatory and necessary for bigger blocks of codes while ternary operator is used for simpler conditional comparisons. Ternary operator is used as a one-line code.*/
+•	Conditional ternary operator is used to take quick decisions with simple conditions. It should not be confused with if/else statements. Although they seem to do the same job, they do not really actually replace one another. If/Else statements are still obligatory and necessary for bigger blocks of codes while ternary operator is used for simpler conditional comparisons. Ternary operator is usually used as a one-line code.*/
 
 //Example:
 let age = 18;
