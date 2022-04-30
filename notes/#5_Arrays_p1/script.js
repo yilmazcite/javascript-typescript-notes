@@ -2,7 +2,7 @@
 /*
 •	Arrays are used to store multiple values within one variable. The items are listed in the square brackets with a comma after each item. Different data types can be used at the same time in a single array (like a string and a number).*/
 //Example:
-yourName = ['Phil', 'Claire', 'Gloria', 'Jay']; //4 items in an array.
+let yourName = ['Phil', 'Claire', 'Gloria', 'Jay']; //4 items in an array.
 console.log(yourName[0]); //logs "Phil" because the first item from the array is requested. Square brackets are also necessary in here to call for the item.
 
 //The index of array items start from 0. That means the item 1 in every item has an index of 0, the item 2 has an index of 1 and so on and so forth...
@@ -16,7 +16,7 @@ console.log(yourName[2]); //logs "Gloria".
 //Example:
 
 let givenName = prompt('What is your name?');
-let yourName = ['Phil', 'Claire', 'Gloria', 'Jay', 'Cameron', 'Mitchell'];
+yourName = ['Phil', 'Claire', 'Gloria', 'Jay', 'Cameron', 'Mitchell'];
 
 if (yourName.includes(givenName)) {
   //.includes() function is used with the prompt input.
