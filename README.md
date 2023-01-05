@@ -1,11 +1,7 @@
-# JavaScript Notes
-<ul>
-<li>I will update this repository with the notes that I have been taking while learning JavaScript.</li>
-<li>The two main courses I have been following on Udemy belong to <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">Angela Yu</a> and <a href="https://www.udemy.com/course/the-complete-javascript-course/">Jonas Schmedtmann</a>.</li>
-<li>Since I follow these two courses as I take down notes, the notes will also consist of some examples and challenges used in these courses.</li><br>
-<li>Please finally be aware that the notes that I have taken before and am currently taking are merely the products of what I have understood as I move on and that I do not claim that they are fully equipped. Although I double-check each and every single one of the files, they might be incompetent and inadequate on any level.</li>
-<li>I hope it helps.</li>
-</ul>
+# JavaScript and TypeScript Notes
+
+<li>This repository consists of the notes I have been taking while studying JavaScript and TypeScript.</li>
+<li>It can help as a quick starter guide although much detailed, thorough explanation of concepts should not be expected.</li><br>
 
 # JavaScript:
 
@@ -35,6 +31,8 @@
 **[#1 - Introduction](https://github.com/yilmazcite/JavaScriptNotes/blob/main/TypeScript/%231_Introduction/intro.ts)** <br>
 **[#2 - Type Inference](https://github.com/yilmazcite/JavaScriptNotes/blob/main/TypeScript/%232_TypeInference/script.ts)** <br>
 **[#3 - Functions](https://github.com/yilmazcite/JavaScriptNotes/blob/main/TypeScript/%233_Functions/script.ts)** <br>
-**[#4 - Object Type](https://github.com/yilmazcite/JavaScriptNotes/blob/main/TypeScript/%234_ObjectType/script.ts)** <br>
+**[#4 - Object Type](https://github.com/yilmazcite/JavaScriptNotes/blob/main/TypeScript/%234_ObjectType/script.ts)** <br><br>
 
+#
 
+<li>Three main courses I have followed while studying and taking down notes are <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">Angela Yu's</a>, <a href="https://www.udemy.com/course/the-complete-javascript-course/">Jonas Schmedtmann's</a>, and <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/">Maximilian Schwarzmüller's</a> courses on Udemy. Additional resources I have used are cited within the related notes files.</li>
