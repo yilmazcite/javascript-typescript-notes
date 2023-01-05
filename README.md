@@ -7,7 +7,7 @@
 <li>I hope it helps.</li>
 </ul>
 
-# Notes Added:
+# JavaScript:
 
 **[#1 - Some Basics of JavaScript](https://github.com/yilmazcite/JavaScriptNotes/tree/main/notes/%231_SomeVeryBasicsOfJS/script.js)** <br>
 **[#2 - Functions](https://github.com/yilmazcite/JavaScriptNotes/tree/main/notes/%232_Functions/script.js)** <br>
@@ -29,4 +29,12 @@
 **[#18 - Maps](https://github.com/yilmazcite/JavaScriptNotes/tree/main/notes/%2318_Maps/script.js)** <br>
 **[#19 - Working with Strings](https://github.com/yilmazcite/JavaScriptNotes/tree/main/notes/%2319_WorkingWithStrings/script.js)** <br>
 **[#20 - jQuery](https://github.com/yilmazcite/JavaScriptNotes/tree/main/notes/%2320_jQuery/script.js)** <br>
+
+# TypeScript:
+
+**[#1 - Introduction](https://github.com/yilmazcite/JavaScriptNotes/blob/main/TypeScript/%231_Introduction/intro.ts)** <br>
+**[#2 - Type Inference](https://github.com/yilmazcite/JavaScriptNotes/blob/main/TypeScript/%232_TypeInference/script.ts)** <br>
+**[#3 - Functions](https://github.com/yilmazcite/JavaScriptNotes/blob/main/TypeScript/%233_Functions/script.ts)** <br>
+**[#4 - Object Type](https://github.com/yilmazcite/JavaScriptNotes/blob/main/TypeScript/%234_ObjectType/script.ts)** <br>
+
 
