@@ -31,7 +31,9 @@
 **[#1 - Introduction](https://github.com/yilmazcite/JavaScriptNotes/blob/main/TypeScript/%231_Introduction/intro.ts)** <br>
 **[#2 - Type Inference](https://github.com/yilmazcite/JavaScriptNotes/blob/main/TypeScript/%232_TypeInference/script.ts)** <br>
 **[#3 - Functions](https://github.com/yilmazcite/JavaScriptNotes/blob/main/TypeScript/%233_Functions/script.ts)** <br>
-**[#4 - Object Type](https://github.com/yilmazcite/JavaScriptNotes/blob/main/TypeScript/%234_ObjectType/script.ts)** <br><br>
+**[#4 - Object Type](https://github.com/yilmazcite/JavaScriptNotes/blob/main/TypeScript/%234_ObjectType/script.ts)** <br>
+**[#5 - Type Alias](https://github.com/yilmazcite/javascript-typescript-notes/blob/main/TypeScript/%235_TypeAlias/script.ts)** <br><br>
+
 
 #
 
