@@ -37,4 +37,9 @@
 
 #
 
+## TypeScript Series on Medium:
+**<li>[A Beginner's Guide to TypeScript — 1](https://medium.com/@yilmazcite/a-beginners-guide-to-typescript-1-cca6328f6a94)</li>**<br>
+
+#
+
 <li>Three main courses I have followed while studying and taking down notes are <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">Angela Yu's</a>, <a href="https://www.udemy.com/course/the-complete-javascript-course/">Jonas Schmedtmann's</a>, and <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/">Maximilian Schwarzmüller's</a> courses on Udemy. Additional resources I have used are cited within the related notes files.</li>
