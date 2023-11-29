@@ -39,6 +39,7 @@
 
 ## TypeScript Series on Medium:
 **<li>[A Beginner's Guide to TypeScript — 1](https://medium.com/@yilmazcite/a-beginners-guide-to-typescript-1-cca6328f6a94)</li>**<br>
+**<li>[A Beginner's Guide to TypeScript — 2](https://medium.com/@yilmazcite/a-beginners-guide-to-typescript-2-dfc24e48fc23)</li>**<br>
 
 #
 
